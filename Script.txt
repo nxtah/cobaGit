@@ -1,0 +1,97 @@
+Ok, Selamat Pagi/Siang/Sore/Malem semuanya (Bisa pake Assalamualaikum diawal)
+
+Perkenalkan nama saya (Nama) Mahasiswa Sistem Informasi 2023 Universitas
+Pembangunan Jaya. Saya disini akan mempresentasikan tugas yang diberikan
+oleh Pak Auguri yaitu membuat program Sort Ascending dan Descending dengan
+tampilan Modular di BlueJ dengan fungsi Constructor, Setter/Mutator, dan
+Getter/Accessor didalamnya. Ok langsung saja kita mulai review
+kode program dan hasil programnya.
+
+===
+
+(Mulai nampilin programnya dulu dan mulai kita jelasin satu-satu)
+
+===
+
+Ok ini adalah kode program atau source code dari program Sort tampilan
+Modular yang sudah dibuat, disini untuk variabel utamanya kita menggunakan
+3 variabel utama yaitu, jumlahNilai untuk menentukan jumlah array yang akan diinput,
+lalu nilai yang adalah data nilai yang akan diinput dalam array, dan pilihan
+yang adalah variabel untuk input pilihan sort Ascending atau Descending nanti.
+
+===
+
+(Mulai nampilin bagian source code mana aja yang bakalan direview)
+
+===
+
+Nah pada source code (1) ini adalah script fungsi untuk Constructor yang dimana
+Constructor ini akan membangun objek yang akan digunakan yang disini adalah
+jumlahNilai yang merupakan jumlah array, nilai yang merupakan data yang akan
+diinput dalam array, dan pilihan yang digunakan untuk sebagai input pilihan sort
+Ascending atau Descending nanti.
+
+Nah setelahnya, pada source code (2 dan 3) ini adalah script fungsi untuk Accessor dan
+Mutator atau bisa disebut sebagai Getter dan Setter yang dimana kita bisa mengidentifikasi
+itu adalah Accessor atau Mutator dengan melihat fungsinya, jika fungsi tersebut ada kata
+"get" nya maka itu adalah Accessor sedangkan jika fungsi tersebut ada kata "set" nya maka
+itu adalah Mutator, nah fungsi dari Accessor ini adalah untuk mengakses atau menampilkan data
+sedangkan Mutator adalah fungsi untuk mengisi atau memberikan data. Bisa kita lihat disini kita
+membuat Mutator dan Accessor untuk ketiga fungsi variabel tersebut.
+
+Lalu pada source code (4) ini adalah source code untuk fungsi dari pilihan yang akan dipilih
+untuk menggunakan sort antara Ascending atau Descending. Disini digunakan 2 pilihan yang adalah
+pilihan 1 dan pilihan 2, dimana pilihan 1 berfungsi untuk menampilkan sort Ascending dan pilihan
+2 berfungsi untuk menampilkan sort Descending.
+
+Source code (5) ini adalah fungsi untuk mendeklarasikan Array
+yang sesuai dengan jumlah nilai yang kita masukkan ke dalam modulnya,
+nanti akan kita akan review langsung dalam programnya.
+
+Nah, source code (6) ini adalah fungsi untuk input data kedalam arrayna.
+
+Source code (7) ini adalah algoritma untuk melakukan Descending.
+
+Setelah kita review source codenya sekarang kita akan langsung masuk ke dalam
+programnya.
+
+===
+
+(Mulai masuk ke program)
+
+===
+
+Ok, sekarang kita sudah masuk ke dalam modul programnya, seperti yang 
+sudah tampil, dimana disini kita diminta untuk memasukkan jumlah nilai array,
+contoh misalkan disini kita akan memasukkan jumlah arraynya (Terserah mau masukin berapa)
+
+Nah misalkan kita sudah memasukkan jumlah nilai arraynya yang misalkan disini adalah
+(jumlah array yang tadi kita masukkin sebelumnya), maka akan tampil nilai pertama
+sampai seterusnya sesuai jumlah array yang kita masukkan tadi. Sekarang kita akan
+memasukkan nilai datanya (Terserah mau masukkin berapapun).
+
+Setelahnya maka akan muncul modul untuk memilih Sort yang dimana ada
+Ascending dan Descending dan kita akan mengetes keduanya (dua-duanya ntar dicoba)
+
+Nah sesuai data yang kita input sebelumnya maka ketika kita memilih
+(Ascending/Descending), maka akan muncul hasil data
+sebelum di (Ascending/Descending) dan data setelah di (Ascending/Descending)
+
+(Kembali ke sebelumnya diulang lagi run programnya)
+
+Nah sekarang kita masuk pilihan Sortnya lagi dan sekarang kita akan memilih yang
+(Ascending/Descending) yang dimana akan tampil lagi hasil (Ascending/Descending) nya
+seperti yang sebelumnya.
+
+===
+
+(Penutup)
+
+===
+
+Sekian presentasi tugas program Sort Ascending dan Descending dengan tampilan
+Modular di BlueJ, kurangnya mohon maaf dan terima kasih (Atau bisa assalamualaikum)
+
+
+
+ 

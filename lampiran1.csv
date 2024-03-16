@@ -1,0 +1,40 @@
+Kode,Nama_MataKuliah,Sks,Semester
+CPS101,Bahasa Indonesia (Indonesian language),2,1
+CPS103,Bahasa Inggris (English Language),2,1
+CPS105,Dasar Logika Matematika (Fundamentals of Mathematical Logic),3,1
+INS101,Fondasi Pemrograman dan Struktur Data (*) (Programming Foundation and Data Structure ),4,1
+INS103,Bahasa Pemrograman (Programming Language),3,1
+INS105,Pengantar Sistem Informasi (*) (Introduction to Information System),3,1
+CPS107,Wawasan Kewirausahaan  (Entrepreneurial Mindset),2,1
+CPS102,Pendidikan Pancasila dan Kewarganegaraan (Pancasila Ideology and Civic Education),2,2
+CPS104,Agama (Religious Knowledge),2,2
+CPS106,Kewirausahaan Dasar (Fundamental Entrepeneurship),3,2
+INS102,Sistem Basis Data (*) (Database System),3,2
+INS104,Aljabar Linear (*) (Linear Algebra ),3,2
+INS106,Perancangan dan Pemrograman Web (Web Programming and Design),3,2
+INS108,Interaksi Manusia Komputer (Human  Computer Interaction),3,2
+CPS201,Pembangunan Ekologi Berkelanjutan (Sustainable Eco Development ),3,3
+INS201,Perancangan dan Administrasi Basis Data (Database Design and Administration),5,3
+INS203,Rekayasa Perangkat Lunak (Software Engineering),3,3
+INS205,Mobile Device (Programming) Technology,3,3
+INS207 ,Pengolahan informasi berbasis skrip (Information Processing Based on Script Programming Language),4,3
+INS209,Keamanan Informasi dan Administrasi Jaringan (Information Security and Network Administration),3,3
+INS202,Analisis Proses Bisnis (Business Process Analysis),5,4
+INS204,Pengembangan Aplikasi Perangkat Lunak (Software Application Development),3,4
+INS206,Testing dan Implementasi SI (information Systems Testing and Implementation),3,4
+INS208,Probabilitas dan Statistika (Probability and Statistics),3,4
+INS210,Manajemen dan Bisnis(*) (Business & Management),3,4
+INS301,Komputer & Masyarakat (*) (Computer and Society),3,5
+INS303,Teknik Aplikasi Multimedia (*) (Multimedia Application Technique),3,5
+INS305,Enterprise Resource Planning,3,5
+INS307,Data Warehouse,4,5
+INS309,Sistem Informasi Manajemen (*) (Management Information System),4,5
+INS302,e-Commerce (*),3,6
+INS304,Business Intelligence,4,6
+INS306,Metode Riset Sistem Informasi (Information Systems Research Methods),5,6
+INS308,Knowledge Management (*),3,6
+INS401,Kerja Praktek (Internship),3,7
+INS403,Analisis & Perancangan Sistem (Systems Analysis and Design),5,7
+INS405,Manajemen Proyek SI (Information Systems Project Management),3,7
+INS407,Sistem Basis Data Lanjutan (Advanced Database Systems),3,7
+INS402,Tugas Akhir (Final Project),6,8

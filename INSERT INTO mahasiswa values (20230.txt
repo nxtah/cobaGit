@@ -1,0 +1,13 @@
+INSERT INTO mahasiswa values ("2023081014", "Nabila Putri", "TIF", 2023);
+INSERT INTO mahasiswa values ("2023081015", "Rian Saputra", "SI", 2023);
+INSERT INTO mahasiswa values ("2023081016", "Ayu Lestari", "AKT", 2023);
+INSERT INTO mahasiswa values ("2023081017", "Donny Pratama", "TE", 2023);
+INSERT INTO mahasiswa values ("2023081018", "Clara Angelina", "AK", 2023);
+INSERT INTO mahasiswa values ("2023081019", "Kevin Wijaya", "TSP", 2023);
+INSERT INTO mahasiswa values ("2023081020", "Sarah Amelia", "MNJ", 2023);
+INSERT INTO mahasiswa values ("2023081021", "Bima Sakti", "MNJ", 2023);
+INSERT INTO mahasiswa values ("2023081022", "Cindy Octaviani", "DKV", 2023);
+INSERT INTO mahasiswa values ("2023081023", "David Gunawan", "DP", 2023);
+
+
+LOAD DATA LOCAL INFILE 'C:/xamppp/lampiran.csv' INTO TABLE tblMK FIELDS TERMINATED BY ';' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
